@@ -5,13 +5,13 @@ Book Collections using Node.js &amp; Express
 
 This project is a sophisticated application that uses Node.js to create a book collection management system. Here’s a more detailed breakdown:
 
-* Book Collection Management: This application allows users to manage their book collection1. Users can add books, view all the available books, delete books, issue books, and return books1.
+* Book Collection Management: This application allows users to manage their book collection. Users can add books, view all the available books, delete books, issue books, and return books.
 
-*  Node.js: This application is built using Node.js, a popular JavaScript runtime environment that executes JavaScript code outside the browser1. Node.js allows you to use JavaScript as both a front-end and back-end language1, making it an ideal choice for developing a book collection management system.
+*  Node.js: This application is built using Node.js, a popular JavaScript runtime environment that executes JavaScript code outside the browser. Node.js allows you to use JavaScript as both a front-end and back-end language, making it an ideal choice for developing a book collection management system.
 
-* Express.js: Express.js is a minimal and flexible Node.js web application framework1. It provides a robust set of features for web and mobile applications1. In book collection application, Express.js is used to set up the server.
+* Express.js: Express.js is a minimal and flexible Node.js web application framework. It provides a robust set of features for web and mobile applications1. In book collection application, Express.js is used to set up the server.
 
-* Data Storage: I might be using a database for storing book collection. For instance, MongoDB can be used in combination with Mongoose, a MongoDB object modeling tool1.
+* Data Storage: I might be using a database for storing book collection. For instance, MongoDB can be used in combination with Mongoose, a MongoDB object modeling tool.
 
 * User Interface: The user interface of a book collection application is likely built using HTML, CSS, and client-side JavaScript. It provides users with a text input field for book details and a display area for viewing books.
 
